@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+I am a second-year Chemistry major at Cal Poly SLO, hoping 
 
 ### More Information
 
