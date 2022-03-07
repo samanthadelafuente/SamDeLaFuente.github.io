@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Publications
+title: Alpha Chi Sigma (AXS)
 permalink: /pubs/
 ---
 
-1. A great publication.
-2. Another great publication.
+This year, I became a member of Alpha Chi Sigma (AXS), the professional Chemistry fraternity on campus. Since then, I've had great opportunities for community outreach, student tutoring, 
