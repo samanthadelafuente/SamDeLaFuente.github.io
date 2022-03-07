@@ -10,7 +10,7 @@ permalink: /people/
 
 -Incorporating creative recipes into my meals
 
--Taking some time so venture outside and sketch landscapes
+-Taking some time to venture outside and sketch landscapes
 
 -Diving into a new book
 
