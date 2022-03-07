@@ -4,12 +4,10 @@ title: About Me
 permalink: /about/
 ---
 
-I am a second-year Chemistry major at Cal Poly SLO, hoping 
+I am a second-year Chemistry major at Cal Poly in San Luis Obispo, hoping to get a graduate degree in Forensic Science after finishing my undergraduate studies. Relevant coursework so far includes General Chemistry, General Biology and Microbiology, and Organic Chemistry. 
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[armcdona@calpoly.edu](mailto:armcdona@calpoly.edu)
+[scdelafu@calpoly.edu](mailto:scdelafu@calpoly.edu)
